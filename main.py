@@ -10,7 +10,7 @@ Screen:
             id: mdlab
             text: "Welcome in perfect habits"
             halign: "center"
-            font_style: "H3"
+            font_size: "20"
         
         MDRaisedButton:
             id: mdraised
